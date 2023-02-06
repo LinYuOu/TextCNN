@@ -5,3 +5,4 @@
 -	使用CNN对输入的矩阵提取特征，输出特征矩阵
 -	将位置信息融入特征矩阵
 -	最终在测试集上达到80%的准确率。
+![image](https://user-images.githubusercontent.com/124163808/216926418-66f9144d-3248-4c28-b76b-b413743cc1d8.png)
